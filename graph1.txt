@@ -11,3 +11,7 @@
 6 2 5
 6 5 3
 2 6 9
+
+//delete this comments when using
+//first line means directed(1) or not(0)
+//other lines follow the rules startpoint-endpoint-cost
